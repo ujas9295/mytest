@@ -1,0 +1,5 @@
+#ignore this file call .txt and .classpath
+.txt
+.classpath
+#ignore floder call node_modules
+/node_modules
